@@ -15,4 +15,8 @@ public class Tarefa {
     public Tarefa(String descricao) {
         this.descricao = descricao;
     }
+
+    public String toString () {
+        return descricao;
+    }
 }
