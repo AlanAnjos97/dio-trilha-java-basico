@@ -11,6 +11,7 @@ public class Main {
     cc.transferir(50.30, cp);
     cc.imprimirExtrato();
     cp.imprimirExtrato();
+    cp.imprimirExtrato();
 
 }
 }
